@@ -1,0 +1,10 @@
+🧑‍💻 Team Member 2: Backend & Firebase Developer
+
+✅ Tasks:
+
+ Set up Firebase project & configure Firestore
+ Design Firestore schema (menu, orders, users)
+ Implement Firebase Authentication
+ Create Cloud Functions for order processing
+ Secure database with Firestore security rules
+ Deploy Firebase functions & test API endpoints

@@ -1,0 +1,8 @@
+🧑‍💻 Team Member 3: AI & Chatbot Developer
+✅ Tasks:
+
+ Set up Dialogflow CX / GPT-4 API
+ Train chatbot for food recommendations (based on time, budget, taste)
+ Implement natural language processing (NLP)
+ Integrate chatbot with Firestore menu data
+ Optimize chatbot responses using ML models
