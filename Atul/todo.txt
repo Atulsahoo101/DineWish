@@ -5,4 +5,4 @@
  Train chatbot for food recommendations (based on time, budget, taste)
  Implement natural language processing (NLP)
  Integrate chatbot with Firestore menu data
- Optimize chatbot responses using ML models
+ Optimize chatbot responses using ML modelsnpm start
