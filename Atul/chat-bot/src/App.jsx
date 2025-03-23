@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import axios from "axios";
 
-const API_KEY = "AIzaSyCN88KAgxNadbYOTtoHoms0Ke00TUz81ac";
+const API_KEY = "";
 
 const menuDatabase = [
   { id: 1, name: "Margherita Pizza", category: "Pizza", price: 10, image: "🍕" },
